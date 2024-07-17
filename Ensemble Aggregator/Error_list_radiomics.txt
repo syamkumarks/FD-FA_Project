@@ -1,0 +1,10 @@
+Error: LIDC-IDRI-0007:name 'sitk' is not defined
+Error: LIDC-IDRI-0151:name 'sitk' is not defined
+Error: LIDC-IDRI-0269:name 'sitk' is not defined
+Error: LIDC-IDRI-0423:name 'sitk' is not defined
+Error: LIDC-IDRI-0640:name 'sitk' is not defined
+Error: LIDC-IDRI-0712:name 'sitk' is not defined
+Error: LIDC-IDRI-0726:name 'sitk' is not defined
+Error: LIDC-IDRI-0863:name 'sitk' is not defined
+Error: LIDC-IDRI-0932:name 'sitk' is not defined
+Error: LIDC-IDRI-0966:name 'sitk' is not defined

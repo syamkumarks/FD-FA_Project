@@ -1,0 +1,5 @@
+Method 2:
+Train: Split The data set to test and tarin
+Test: Select 100 samples used for Testing Purposes
+Features: First, use the whole feature list and find the accuracy of this method. Then Reduce the feature list to 200,100
+

@@ -1,0 +1,1 @@
+Error: LIDC-IDRI-0822:No labels found in this mask (i.e. nothing is segmented)!

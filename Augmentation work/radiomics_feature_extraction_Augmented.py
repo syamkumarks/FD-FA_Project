@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 12 13:44:09 2019
 
-@author: PC
-"""
 
 import SimpleITK as sitk
 import numpy as np
